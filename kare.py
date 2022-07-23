@@ -7,3 +7,4 @@ class karealan():
 
 Kare1 = karealan(15,10)
 print(Kare1.Hesapla())
+jdjgkjgbnbn
