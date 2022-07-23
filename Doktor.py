@@ -12,3 +12,5 @@ class Doktor():
     def Çıkış(self)
       print("Çıkışınız yapıldı :")
       gjbgh
+
+      doktor derdime bul bi çare
